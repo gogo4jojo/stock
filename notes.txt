@@ -1,0 +1,9 @@
+https://www.geeksforgeeks.org/how-to-design-a-database-for-stock-trading-app-like-groww/
+got database schema from here
+
+https://www.youtube.com/watch?v=RIZnwhV5ooY&t=20s
+parsing one piece wiki
+
+stock markets
+WGSE - World Government Stock Exchange
+UWSE - Under World Stock Exchange
